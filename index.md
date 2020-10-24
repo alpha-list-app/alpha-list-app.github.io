@@ -23,7 +23,7 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: 당신만의 에널리스트 <br><strong>Alphalist</strong>
+    headline: 나의 합리적 투자 <br><strong>Alphalist</strong>
     content:
       아직도 이 회사가 뭐하는 회사인지도 모르고 투자하나요?<br>
       주식은 어렵고 공부를 하라고 하는데 도대체 뭘 공부해야 하는지도 모르겠고
