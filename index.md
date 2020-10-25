@@ -26,10 +26,9 @@ page_sections:
     headline: 나의 합리적 투자 <br><strong>Alphalist</strong>
     content:
       아직도 이 회사가 뭐하는 회사인지도 모르고 투자하나요?<br>
-      주식은 어렵고 공부를 하라고 하는데 도대체 뭘 공부해야 하는지도 모르겠고
       알파리스트는 기업의 재무건전성, 성장가능성, 시장전망을 분석하여 여러분에게 
       종목을 추천하고 가치평가를 통해 적정주가 기반의 매매 시나리오까지 알려드립니다.<br> 
-      이제 깜깜이 투자말고 알파리스트와 함께 합리적으로 현명한 투자를 해보세요 
+      이제 알파리스트와 함께 합리적으로 현명한 투자를 해보세요 
     cta:
       enabled: true
       url: https://github.com/forestryio/ubuild-jekyll
