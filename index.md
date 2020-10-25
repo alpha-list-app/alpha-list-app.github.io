@@ -17,9 +17,14 @@ page_sections:
         link_text: Responsive
       - link: "#blocks"
         link_text: Blocks
-    cta:
+    cta1:
       url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-      button_text: Import
+      app_os: android
+      button_text: app Download
+    cta2:
+      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+      app_os: ios
+      button_text: app Download
   - template: hero-banner-w-image
     block: hero-2
     slug: features
