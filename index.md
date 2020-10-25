@@ -17,14 +17,10 @@ page_sections:
         link_text: Responsive
       - link: "#blocks"
         link_text: Blocks
-    cta1:
+    cta:
       url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-      app_os: android
-      button_text: app Download
-    cta2:
-      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-      app_os: ios
-      button_text: app Download
+      button_text: Import
+      
   - template: hero-banner-w-image
     block: hero-2
     slug: features
@@ -34,10 +30,16 @@ page_sections:
       알파리스트는 기업의 재무건전성, 성장가능성, 시장전망을 분석하여 여러분에게 
       종목을 추천하고 가치평가를 통해 적정주가 기반의 매매 시나리오까지 알려드립니다.<br> 
       이제 알파리스트와 함께 합리적으로 현명한 투자를 해보세요 
-    cta:
+    cta1:
       enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+      app_os: android
+      button_text: app Download
+    cta2:
+      enabled: true
+      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+      app_os: android
+      button_text: app Download
     image:
       image: "/uploads/2018/06/21/alphalist_concept.png"
       alt_text: Product Shot
