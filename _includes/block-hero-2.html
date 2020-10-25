@@ -7,11 +7,12 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
       <div class="column text">
         <h1><span class="light">{{ section.headline }}</span></h1>
         <p>{{ section.content }}</p>
-        {% if section.cta and section.cta.enabled == true %}
+        {% if section.cta1 and section.cta1.enabled == true %}
         <a class="button primary inverted" href="{{ section.cta1.url }}">
           <div>{{ section.cta1.app_os }}</div>
           <div>{{ section.cta1.button_text }}</div>
         </a>
+        {% if section.cta1 and section.cta1.enabled == true %}
         <a class="button primary inverted" href="{{ section.cta2.url }}">
           <div>{{ section.cta2.app_os }}</div>
           <div>{{ section.cta2.button_text }}</div>
