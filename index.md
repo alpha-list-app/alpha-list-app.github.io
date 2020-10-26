@@ -30,14 +30,18 @@ page_sections:
       알파리스트는 기업의 재무건전성, 성장가능성, 시장전망을 분석하여 여러분에게 
       종목을 추천하고 가치평가를 통해 적정주가 기반의 매매 시나리오까지 알려드립니다.<br> 
       이제 알파리스트와 함께 합리적으로 현명한 투자를 해보세요 
+    cta:
+      enabled: true
+      url: https://github.com/forestryio/ubuild-jekyll
+      button_text: "See on GitHub "
     cta1:
       enabled: true
-      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+      url: https://github.com/forestryio/ubuild-jekyll
       app_os: "android"
       button_text: "app Download"
     cta2:
       enabled: true
-      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+      url: https://github.com/forestryio/ubuild-jekyll
       app_os: "ios"
       button_text: "app Download"
     image:
