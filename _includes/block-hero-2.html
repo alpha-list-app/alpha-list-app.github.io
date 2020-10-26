@@ -8,10 +8,10 @@ style="background-image: url('{{ section.background_image | relative_url }}')"
         <h1><span class="light">{{ section.headline }}</span></h1>
         <p>{{ section.content }}</p>
         {% if section.cta1 and section.cta1.enabled == true %}
-        <a class="button primary inverted" href="{{ section.cta1.url }}" style="margin-right: 5%;" onClick="ga('send', 'event', 'Category', 'Action', 'Label');">Download(android)</a>
+        <a id="android-button" class="button primary inverted" href="{{ section.cta1.url }}" style="margin-right: 5%;" onClick="ga('send', 'event', 'Category', 'Action', 'Label');">Download(android)</a>
         {% endif %}
         {% if section.cta2 and section.cta2.enabled == true %}
-        <a class="button primary inverted" href="{{ section.cta2.url }}" style="margin-left: 5%;" onClick="ga('send', 'event', 'Category', 'Action', 'Label');">Download(ios)</a>
+        <a id="android-button" class="button primary inverted" href="{{ section.cta2.url }}" style="margin-left: 5%;" onClick="ga('send', 'event', 'Category', 'Action', 'Label');">Download(ios)</a>
         {% endif %}
       </div>
       <div class="column media">
