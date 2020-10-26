@@ -34,12 +34,12 @@ page_sections:
       enabled: true
       url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
       app_os: android
-      button_text: app Download
+      button_text: "app Download"
     cta2:
       enabled: true
       url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
       app_os: android
-      button_text: app Download
+      button_text: "app Download"
     image:
       image: "/uploads/2018/06/21/alphalist_concept.png"
       alt_text: Product Shot
