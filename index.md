@@ -41,7 +41,7 @@ page_sections:
       button_text: "app Download"
     cta2:
       enabled: true
-      url: https://forms.gle/pDthZ1kRmNUDorvu7
+      url: https://forms.gle/DDwVNF9tQXcMcsTUA
       app_os: "ios"
       button_text: "app Download"
     image:
