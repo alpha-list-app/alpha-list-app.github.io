@@ -36,12 +36,12 @@ page_sections:
       button_text: "See on GitHub "
     cta1:
       enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
+      url: https://forms.gle/j8A4wfFPJ8goMVrA6
       app_os: "android"
       button_text: "app Download"
     cta2:
       enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
+      url: https://forms.gle/pDthZ1kRmNUDorvu7
       app_os: "ios"
       button_text: "app Download"
     image:
