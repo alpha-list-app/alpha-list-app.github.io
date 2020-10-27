@@ -71,6 +71,18 @@ page_sections:
     media:
       image: "/uploads/2018/06/21/process.gif"
       alt_text: process_image
+  - template: content-feature
+    block: feature-1
+    media_alignment: Left
+    slug: trading
+    headline:
+      <strong>목표 매수/매도 가격 산출<span class="light">&nbsp;</span></strong><span
+      class="light">을 통한 정확한 타이밍의 매매</span>
+    content:
+      주식을 하시는 분들이 가장 어려워하시는 부분이 이 주식이 좋다고 사긴 샀는데 언제까지 들고 있어야 하는지 언제 팔아야 하는지 가격이 떨어지면 손절해야 하는건지 더 사야하는 건지를 아무도 알려주지 않는다는 것입니다. 알파리스트는 가치평가로 산출된 매수 가격 및 매도 가격을 통해 매매 전략을 세울 수 있도록 도와드립니다. 
+    media:
+      image: "/uploads/2018/06/21/alphalist_trading.png"
+      alt_text: trading_image
   - template: 1-column-text
     block: one-column-1
     slug: responsive
