@@ -2,6 +2,7 @@
 layout: blocks
 title: Alphalist-landing
 date: 2017-11-22T23:00:00.000+00:00
+thumbnail: "/uploads/2018/06/21/alphalist_logo.svg"
 page_sections:
   - template: navigation-header-w-button
     block: header-2
