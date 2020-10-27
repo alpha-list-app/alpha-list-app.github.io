@@ -57,7 +57,7 @@ page_sections:
       class="light">을 통한 합리적이고 건강한 투자</span>
     content:
       알파리스트의 기업 가치평가 엔진을 통해 적정주가를 계산하여 현재 주가가 적정주가보다 저평가되어 있고 성장가치가 높은 종목을 추천합니다.
-    medi
+    media:
       image: "/uploads/2018/06/21/alphalist_listing.png"
       alt_text: list_image
   - template: content-feature
