@@ -12,7 +12,7 @@ page_sections:
       - link: "#list"
         link_text: "종목추천"
       - link: "#process"
-        link_text: 분석과정
+        link_text: "분석과정"
       - link: "#responsive"
         link_text: Responsive
       - link: "#blocks"
