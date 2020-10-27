@@ -3,7 +3,7 @@ author: 3rdChance
 email: thirdchancecorp@gmail.com
 description: >-
   로보에널리스트 알파리스트를 다운로드 받을 수 있는 랜딩페이지입니다.
-baseurl: "/alpha-list-app.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # your site's origin, e.g. https://forestry.io
 
 # Build settings
