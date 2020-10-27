@@ -8,15 +8,15 @@ page_sections:
     logo: "/uploads/2018/06/21/alphalist_logo.svg"
     navigation:
       - link: "/"
-        link_text: Ubuild
+        link_text: Main
       - link: "#list"
         link_text: "종목추천"
       - link: "#process"
         link_text: "분석과정"
-      - link: "#responsive"
-        link_text: Responsive
-      - link: "#blocks"
-        link_text: Blocks
+      - link: "#trading"
+        link_text: 매매전략
+      - link: "#business"
+        link_text: 시뮬레이션
     cta:
       url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
       button_text: Import
@@ -85,24 +85,21 @@ page_sections:
       alt_text: trading_image
   - template: 1-column-text
     block: one-column-1
-    slug: responsive
-    headline: 16 Fully Responsive Design Blocks
+    slug: business
+    headline: 기업의 영업 재무 사장환경에 따른 시뮬레이션
     content: |
-      The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-      create new sites and make them fully customizable.
+      기업의 재무 데이터와 IR 자료, 뉴스, 공공 데이터, 그 밖의 모든 수집 가능한 데이터를 분석하여 추후 기업의 영업활동에 대한 시뮬레이션을 통해 미래의 기업 현금흐름을 추정하여 기업가치를 산출합니다.
   - template: full-width-media-element
     block: media-1
-    image: "/uploads/2018/06/21/theme.png"
+    image: "/uploads/2018/06/21/alphalist_chart.png"
     caption: All Available Blocks
     slug: blocks
   - template: detail-content
     block: text-1
-    headline: Steps to Build a Site!
+    headline: 알파리스트를 이용하면
     content:
-      <p>uBuild is an open-source Jekyll based demo that doubles as a builder tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-      article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
+      <p>알파리스트는 기존의 로보어드바이저와는 다르게 수 많은 데이터를 통해 각 기업을 세부적으로 분석하여 여러분에게 투자 정보를 제공하는 로보 에널리스트 서비스입니다.</p><ol><li><p>어떻게 기업을 분석하면 좋은 기업에 투자할 수 있는지 알려드립니다. 저희는 그냥 픽 찍어주는 서비스가 아닙니다.</p></li><li><p>호재라고 사고 악재라고 파는게 아닌 얼마짜리 호재인지 얼마짜리 악재인지 파악할 수 있습니다. 저희는 여러분의 실력을 키워드립니다.</p></li><li><p>다른 사람이 이야기하는 고오급 정보에 휘둘리지 않을 수 있습니다. 이제 깜깜이 투자가 아닌 알파리스트와 합리적인 투자를 하세요. </p></li></ol>
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Canada
+    content: Made by 3rdChance Inc.
 ---
