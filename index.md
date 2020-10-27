@@ -11,8 +11,8 @@ page_sections:
         link_text: Ubuild
       - link: "#list"
         link_text: "종목추천"
-      - link: "#customize"
-        link_text: Customize
+      - link: "#process"
+        link_text: 분석과정
       - link: "#responsive"
         link_text: Responsive
       - link: "#blocks"
@@ -59,20 +59,18 @@ page_sections:
       알파리스트의 기업 가치평가 엔진을 통해 적정주가를 계산하여 현재 주가가 적정주가보다 저평가되어 있고 성장가치가 높은 종목을 추천합니다.
     medi
       image: "/uploads/2018/06/21/alphalist_listing.png"
-      alt_text: uBuild Blocks Mock-Up
+      alt_text: list_image
   - template: content-feature
     block: feature-1
     media_alignment: Right
-    slug: customize
+    slug: process
     headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
+      <strong>6단계의 종목선별과정</strong><span class="light">&nbsp;을 통한 합리적인 투자종목 추천</span>
     content:
-      Each block comes with custom Front Matter that can be edited in
-      Forestry CMS.
+      여섯단계를 거치면서 안정성 높으면서 기대값 이상의 성장가치가 있는 종목을 추천해드립니다.
     media:
-      image: "/uploads/2018/06/21/edit.gif"
-      alt_text: Customize Blocks
+      image: "/uploads/2018/06/21/process.gif"
+      alt_text: process_image
   - template: 1-column-text
     block: one-column-1
     slug: responsive
