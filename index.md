@@ -53,12 +53,11 @@ page_sections:
     media_alignment: Left
     slug: list
     headline:
-      <strong>종목추천 &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
+      <strong>가치평가를 통한 저평가 종목 추천<span class="light">&nbsp;</span></strong><span
+      class="light">을 통한 합리적이고 건강한 투자</span>
     content:
-      Quickly assemble and create custom sites with 16 design blocks for seven
-      different sections.
-    media:
+      알파리스트의 기업 가치평가 엔진을 통해 적정주가를 계산하여 현재 주가가 적정주가보다 저평가되어 있고 성장가치가 높은 종목을 추천합니다.
+    medi
       image: "/uploads/2018/06/21/alphalist_listing.png"
       alt_text: uBuild Blocks Mock-Up
   - template: content-feature
