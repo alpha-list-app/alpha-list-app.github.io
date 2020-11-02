@@ -38,12 +38,12 @@ page_sections:
     cta1:
       enabled: true
       url: https://forms.gle/j8A4wfFPJ8goMVrA6
-      app_os: "android"
+      app_os: "Google Play"
       button_text: "app Download"
     cta2:
       enabled: true
       url: https://forms.gle/DDwVNF9tQXcMcsTUA
-      app_os: "ios"
+      app_os: "App Store"
       button_text: "app Download"
     image:
       image: "/uploads/2018/06/21/alphalist_concept.png"
